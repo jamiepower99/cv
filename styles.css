@@ -1,0 +1,214 @@
+/* general selectors */
+
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100px;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 35px;
+  color: #aaa;
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+
+a.link {
+  display: inline-block;
+  padding-top: 10px;
+}
+
+hr {
+  width: 25%;
+
+}
+
+
+/* header */
+
+.header {
+  color: white;
+  text-align: center;
+  background-image: -webkit-linear-gradient(135deg, #3CFFA1, #24A7FF, #B280FF);
+  padding-bottom: 3%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.me {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  color: white;
+}
+
+.hello {
+  font-size: 5rem;
+  padding: 50px 100px 50px 100px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  /* font-style: italic; */
+}
+
+.light-purple {
+  color: #D9BEFF;
+}
+
+.light-green {
+  color: #A3FFE1;
+}
+
+.intro {
+  text-align: center;
+  padding: 5%;
+}
+
+
+
+.aurora {
+  background: -webkit-linear-gradient(135deg, #3CFFA1, #24A7FF, #B280FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* skills */
+
+
+.skill-row {
+  padding: 0 5% 0;
+}
+
+.skill {
+  padding: 0 3% 0;
+}
+
+.skill-icon {
+  padding-right: 25px;
+  color: #aaaaaa;
+}
+
+.box {
+  border: 3px solid #dddddd;
+  padding: 10px 10px;
+  border-radius: 10px;
+  color: #aaaaaa;
+}
+
+.skill-title {
+  color: #aaaaaa;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  bottom: 7px;
+}
+
+.song {
+  margin: 7% 1% 0;
+  width: 90%;
+  margin: 7% auto 0;
+
+}
+
+.songs {
+  text-align: center;
+}
+
+.cover {
+  margin: 7% 5% 0;
+}
+
+
+
+/* testimonials */
+
+.testimonial {
+  padding: 5% 20%;
+  height: 400px;
+}
+
+#testimonials {
+  text-align: center;
+  line-height: 2;
+}
+
+.person {
+  margin-top: 50px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  font-style: italic;
+  color: #777;
+}
+
+.testimonial-text {
+  font-weight: 300;
+  font-family: 'Raleway', sans-serif;
+  font-style: italic;
+}
+
+
+.james-power {
+  padding-top: 30px;
+  color: white;
+}
+
+.link {
+  margin: 5px;
+  font-family: 'Open Sans', sans-serif;
+  transition: 600ms;
+  text-decoration: none;
+  color: white;
+}
+
+.link:link {
+  color: white;
+}
+
+.link:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.purple:hover {
+  color: #B280FF;
+}
+
+.blue:hover {
+  color: #24A7FF;
+}
+
+.green:hover {
+  color: #3CFFA1;
+}
+
+/* contact */
+
+.contact {
+background-color: #eee;
+padding-bottom: 2%;
+}
+
+.send-me {
+  padding: 2%;
+}
+
+/* footer */
+
+.footer {
+  background-color: #cccccc;
+  padding-top: 1%;
+  text-align: center;
+}
