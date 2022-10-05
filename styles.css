@@ -166,8 +166,8 @@ margin-right: 20%;
 /* testimonials */
 
 .testimonial {
-  padding: 5% 20%;
-  height: 400px;
+  padding: 7% 20%;
+  height: 450px;
 }
 
 #testimonials {
@@ -186,7 +186,6 @@ margin-right: 20%;
 .testimonial-text {
   font-weight: 300;
   font-family: 'Raleway', sans-serif;
-  font-style: italic;
 }
 
 
@@ -228,7 +227,7 @@ margin-right: 20%;
 
 .contact {
 background-color: #eee;
-padding-bottom: 2%;
+padding: 1% 0 3%;
 }
 
 .send-me {
